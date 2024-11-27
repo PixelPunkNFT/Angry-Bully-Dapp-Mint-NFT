@@ -46,4 +46,4 @@ License
 Distributed under the MIT License. See the LICENSE file for more information.
 
 🚀 Powered by:
-https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg
+White Paper
