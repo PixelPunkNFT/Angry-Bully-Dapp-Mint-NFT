@@ -13,6 +13,8 @@ This is a mobile application developed using **React Native** that allows users 
 - Access to the developer's NFT collection to buy and mint NFTs.
 - Supports multiple blockchain networks.
 
+  ![Cattura.PNG](https://github.com/PixelPunkNFT/Angry-Bully-Dapp-Mint/blob/main/src/assets/images/Cattura.PNG)
+
 ## Installation
 
 To install all necessary dependencies, run the following command:
