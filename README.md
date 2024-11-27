@@ -12,7 +12,7 @@ This is a mobile application developed using **React Native** that allows users 
 - Access to the developer's NFT collection to buy and mint NFTs.
 - Supports multiple blockchain networks.
 
- ###The deployed contract can be used on the following networks:
+ #The deployed contract can be used on the following networks:
 
 - Polygon
 - Mumbai
