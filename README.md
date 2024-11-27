@@ -14,16 +14,16 @@ This is a mobile application developed using **React Native** that allows users 
 
  # The deployed contract can be used on the following networks:
 
-- Polygon
-- Mumbai
-- Ethereum
-- Ropsten
-- Rinkeby
-- Goerli
-- Binance Smart Chain
-- Binance Smart Chain Testnet
-- Cronos
-- Cronos Testnet
+ Polygon
+ Mumbai
+ Ethereum
+ Ropsten
+ Rinkeby
+ Goerli
+ Binance Smart Chain
+ Binance Smart Chain Testnet
+ Cronos
+ Cronos Testnet
 
   ![Cattura.PNG](https://github.com/PixelPunkNFT/Angry-Bully-Dapp-Mint/blob/main/src/assets/images/Cattura.PNG)
 
