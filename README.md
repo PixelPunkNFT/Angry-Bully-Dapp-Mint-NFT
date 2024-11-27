@@ -6,12 +6,24 @@
 This is a mobile application developed using **React Native** that allows users to **mint NFTs** on the **BSC (Binance Smart Chain)**, **Polygon**, **Ethereum**, and **Cronos** blockchains. The app connects to the user's wallet, allowing them to purchase and mint their NFT directly from the developer's collection.
 
  ![Node.js](https://img.shields.io/badge/-Node.js-green)![Express](https://img.shields.io/badge/-Express-blue) ![React](https://img.shields.io/badge/-React-blue)![Redux](https://img.shields.io/badge/-Redux-purple) ![Redux-thunk](https://img.shields.io/badge/-Redux--thunk-purple) ![CSS3](https://img.shields.io/badge/-CSS3-blue)
-
 ### Key Features:
 - Mint NFTs on multiple blockchains (BSC, Polygon, Ethereum, Cronos).
 - Connects to the user's wallet for purchasing and minting NFTs.
 - Access to the developer's NFT collection to buy and mint NFTs.
 - Supports multiple blockchain networks.
+
+  The deployed contract can be used on the following networks:
+
+Polygon
+Mumbai
+Ethereum
+Ropsten
+Rinkeby
+Goerli
+Binance Smart Chain
+Binance Smart Chain Testnet
+Cronos
+Cronos Testnet
 
   ![Cattura.PNG](https://github.com/PixelPunkNFT/Angry-Bully-Dapp-Mint/blob/main/src/assets/images/Cattura.PNG)
 
